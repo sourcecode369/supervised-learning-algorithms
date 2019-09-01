@@ -28,7 +28,7 @@ neural networks and deep learning, so they are important to study in the context
 We’ll discuss the Sci-Kit Learn library, because even though implementing your own algorithms 
 is fun and educational, you should use optimized and well-tested code in your actual work.
 
-### 6. [Final Project - Creating a Web Service](https://github.com/sourcecode369/supervised-learning-algorithms/tree/master)
+### 6. [Final Project - Creating a Web Service](https://github.com/sourcecode369/supervised-learning-algorithms/tree/master/Final%20Project%20-%20Web%20Service)
 > We’ll cap things off with a very practical, real-world example by writing a web service that 
 runs a machine learning model and makes predictions. This is something that real companies do and make money from.
 
