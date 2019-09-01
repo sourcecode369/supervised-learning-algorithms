@@ -32,4 +32,4 @@ is fun and educational, you should use optimized and well-tested code in your ac
 > We’ll cap things off with a very practical, real-world example by writing a web service that 
 runs a machine learning model and makes predictions. This is something that real companies do and make money from.
 
-#### Completed on --
+#### Completed on 1st September, 2019
