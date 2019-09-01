@@ -21,7 +21,7 @@ to lay the foundation of one of the most powerful class of algorithms called Ens
 > The last algorithm we’ll look at is the Perceptron algorithm. Perceptrons are the ancestor of 
 neural networks and deep learning, so they are important to study in the context of machine learning.
 
-### 5.[Practical Machine Learning](https://github.com/sourcecode369/supervised-learning-algorithms/tree/master)
+### 5.[Practical Machine Learning](https://github.com/sourcecode369/supervised-learning-algorithms/tree/master/Practical%20Machine%20Learning)
 > One we’ve studied these algorithms, we’ll move to more practical machine learning topics. 
 **Hyperparameters**, **cross-validation**, **feature extraction**, **feature selection**, and **multiclass classification**.
 
@@ -32,4 +32,4 @@ is fun and educational, you should use optimized and well-tested code in your ac
 > We’ll cap things off with a very practical, real-world example by writing a web service that 
 runs a machine learning model and makes predictions. This is something that real companies do and make money from.
 
-#### Completed on --
+#### Completed on 1st September, 2019
